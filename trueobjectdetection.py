@@ -11,6 +11,7 @@ import sys
 import tarfile
 import tensorflow as tf
 import zipfile
+import keras
 
 
 # In[2]:
